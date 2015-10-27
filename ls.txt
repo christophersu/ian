@@ -1,1 +1,1 @@
-echo -e '\nalias ls="osascript -e \"set volume output volume 100\" && say ian june how zhu && ls"' >> ~/.bashrc && source ~/.bashrc
+echo -e '\nalias ls="osascript -e \"set volume output volume 100\" && say Ian June how zhu && ls"' >> ~/.bashrc && source ~/.bashrc
