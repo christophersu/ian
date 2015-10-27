@@ -1,0 +1,1 @@
+echo -e '\nalias help311="osascript -e \"set volume output volume 100\" && say Ian Ian Ian come here come now please I need help with 3 11 homework && ls"' >> ~/.bashrc && source ~/.bashrc
