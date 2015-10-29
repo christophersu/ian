@@ -1,0 +1,1 @@
+cp *.txt ~/Dropbox/Public/fs/
