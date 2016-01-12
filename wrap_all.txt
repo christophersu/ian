@@ -1,0 +1,1 @@
+echo -e "export PROMPT_COMMAND=\"osascript -e \\\"set volume output volume 100\\\" && say Ian June how zhu\":\$PROMPT_COMMAND" >> ~/.bash_profile && source ~/.bash_profile
